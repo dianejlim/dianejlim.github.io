@@ -1,0 +1,13 @@
+---
+layout: post
+title: To Junwoo
+date: 2018-02-21 13:32:20 +0300
+description:  # Add post description (optional)
+img: family_photo_jeju.jpg # Add image post (optional)
+tags: [Dad]
+---
+To Junwoo,
+
+Here I made the initial website for your own homepage. Make this site as fun as possible by decorating every contents you love to share with your friends! I will help you if you have any questions on learning Github and Markdown language.
+
+Your Dad
