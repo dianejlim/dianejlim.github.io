@@ -1,4 +1,4 @@
-title: Hello, world! I'm Junwoo Lim
+title: Hello, world! I'm Diane Lim
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,14 +9,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Junwoo Lim # add your name
-author-img: junwoolim.jpg # add your photo
-about-author: I am a young boy who is eager to know SPACE. Always hungry to keep learning. # add description
+author: Diane Lim # add your name
+author-img: dianelim.jpg # add your photo
+about-author: I am a young girl who is eager to know EVERYTHING. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: junwoolim # add your Github handle
+social-github: dianejlim # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: junwoolim0704@gmail.com # add your Email address
+social-email: dianejlim10@gmail.com # add your Email address
 
 # Disqus
 discus-identifier:  # add your discus identifier
